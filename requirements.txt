@@ -2,7 +2,7 @@ snowflake-snowpark-python
 streamlit
 altair
 pandas
-snowflake-snowpark-python
-pip install snowflake-snowpark-python
-pip install --upgrade pip
+snowflake-snowpark-python==2.0.0
+# other packages
+
 
