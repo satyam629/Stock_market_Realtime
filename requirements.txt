@@ -1,0 +1,5 @@
+snowflake-snowpark-python
+streamlit
+altair
+pandas
+snowflake-snowpark-python
