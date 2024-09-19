@@ -1,4 +1,4 @@
- Import libraries
+Import libraries
 from snowflake.snowpark.context import get_active_session
 from snowflake.snowpark.functions import sum, col, when, max, lag
 from snowflake.snowpark import Window
