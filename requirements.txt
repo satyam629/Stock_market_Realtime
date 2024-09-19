@@ -3,4 +3,6 @@ streamlit
 altair
 pandas
 snowflake-snowpark-python
+pip install snowflake-snowpark-python
+pip install --upgrade pip
 
